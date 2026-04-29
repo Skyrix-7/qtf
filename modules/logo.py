@@ -2,7 +2,7 @@ from termcolor import colored
 from modules.req import get
 import subprocess
 
-repo = "https://github.com/"
+repo = "https://github.com/Skyrix-7/qtf"
 
 def logo():
     print()
