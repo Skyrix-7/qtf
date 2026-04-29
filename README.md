@@ -2,6 +2,8 @@
 
 A simple CLI tool for making HTTP GET and POST requests with Python.
 
+![image alt](https://github.com/Skyrix-7/qtf/blob/cc3e35b2259984103c7759b21b417bbfb305042f/screenshot.png)
+
 ## Features
 
 - **GET requests** - Fetch JSON data from authorized web apps
