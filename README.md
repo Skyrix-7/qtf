@@ -18,7 +18,7 @@ git clone https://github.com/<your-username>/QTF.git
 cd QTF
 ```
 
-2. Create and activate a virtual environment:
+2. Create and activate a virtual environment (not required):
 
 ```bash
 python -m venv .venv
